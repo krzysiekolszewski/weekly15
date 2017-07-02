@@ -1,0 +1,5 @@
+zadanie 15
+
+1. start 10.07
+2. html/css/js/bootstrap 3
+3. rwd obowiazkowo
